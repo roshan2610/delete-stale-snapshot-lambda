@@ -1,4 +1,4 @@
-# delete-stale-snapshot-lambda
+# AWS Cloud Identify and Delete Stale Snapshot using Lambda
 Created a Lambda function to identify and delete stale EBS snapshots, reducing storage costs in AWS.
 Utilized AWS Lambda, EC2, and Boto3 SDK for Python.
 Automated the process to optimize storage resources and minimize unnecessary costs.
